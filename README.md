@@ -9,7 +9,7 @@ I am looking to gain hands-on experience with core natural language processing t
 
 ## Projects
 - **Spanish Language Learning Helper** – Python program providing feedback on Spanish translations. Implements tokenization, lemmatization, and POS tagging.  
-- **Song Genre Classifier (IN PROGRESS)** - Python program exploring several multiclass classification models, including Naive Bayes and multinomial logistic regression, to classify a song into one of five possible genres based on features extracted from lyrics.  
+- **Song Genre Classifier (IN PROGRESS)** - Python program exploring several multiclass classification models, including multinomial Naive Bayes and logistic regression, to classify a song into one of five possible genres based on features extracted from lyrics.  
 
 ## How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/amanda-healey)  
