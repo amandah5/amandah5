@@ -7,7 +7,7 @@ In addition, my background in the humanities and performing arts gives me a crea
 I like learning how language works by experimenting with NLP systems. I'm obsessed with clarity and efficiency, and I'm constantly aiming to find the structural patterns that different models uncover.
 
 ## About Me
-* 📖 M.S. student in Computational Linguistics at Brandeis University
+* 📔 M.S. student in Computational Linguistics at Brandeis University
 * 💻 Programming languages: Python and Java
 * 🌐 Natural Languages: English (native), Spanish (intermediate), French (beginner)
 
@@ -20,6 +20,7 @@ I like learning how language works by experimenting with NLP systems. I'm obsess
 * 💭 INTJ (Myers-Briggs), 5w4 (Enneagram)
 * 👀 Grapheme-color synesthesia gives me a vibrant perspective of all the language that I analyze
 * 🎵 Music enthusiast ~ I’m highly sensitive to auditory detail, and my immersive response to music shapes the way I think about language
+* 📖 Favorite author: Stephen King
 * 🖊️ Currently: probably organizing or checking my planner
 
 ## Reach out!
