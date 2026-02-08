@@ -1,4 +1,4 @@
-# Hi! My name is Amanda Healey 🤍
+# Hi! My name is Amanda Healey
 
 My linguistics training in theoretical phonology, syntax, and semantics has drawn me to questions about how these areas connect to practical tasks, such as transcription and speech processing. I'm particularly interested in how people perceive and produce language, which ties into lexical, semantic, and structural disambiguation in NLP systems. 
   
