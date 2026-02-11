@@ -12,8 +12,8 @@ I like learning how language works by experimenting with NLP systems. I'm obsess
 * 🌐 Natural Languages: English (native), Spanish (intermediate), French (beginner)
 
 ## Projects
-* **Spanish Language Learning Helper** – Python program providing feedback on Spanish translations. Implements tokenization, lemmatization, and POS tagging.  
-* **Song Genre Classifier (coming soon)** - Python program exploring several multiclass classification models, including multinomial Naive Bayes and logistic regression, to classify a song into one of five possible genres based on features extracted from lyrics.  
+* **Song Genre Classifier** - Python program exploring several multiclass classification models, including multinomial Naive Bayes and logistic regression, to classify a song into one of five possible genres based on features extracted from lyrics.  
+* **Spanish Language Learning Helper** – Exploratory Python program that provides feedback on Spanish translations, based on common language-learning errors such as verb tense and agreement. Implements tokenization, lemmatization, and POS tagging.  
 
 ## More Fun Facts...
 * 🪩 Dancer! I have a dance degree. I approach all my work with a sense of discipline, focus, and rhythm. Ask me about my experience as a professional dancer in a traveling circus...
