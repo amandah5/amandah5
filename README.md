@@ -12,7 +12,8 @@ I like learning how language works by experimenting with NLP systems. I'm obsess
 * 🌐 Natural Languages: English (native), Spanish (intermediate), French (beginner)
 
 ## Projects
-* **Song Genre Classifier** - Python program exploring several multiclass classification models, including multinomial Naive Bayes and logistic regression, to classify a song into one of five possible genres based on features extracted from lyrics.  
+* **Song Genre Classifier** - Python program exploring several multiclass classification models, including multinomial Naive Bayes and logistic regression, to classify 25,000 songs into one of five possible genres based on features extracted from lyrics. Achieved 66% accuracy with scikit-learn and manual feature engineering.
+*   ***New addition*** - Developed a semantic search engine using Sentence-Transformers and FAISS for millisecond-latency, intent-based retrieval of lyrics. Deployed an interactive Streamlit dashboard allowing users to query the dataset via natural language rather than keywords.
 * **Spanish Language Learning Helper** – Exploratory Python program that provides feedback on Spanish translations, based on common language-learning errors such as verb tense and agreement. Implements tokenization, lemmatization, and POS tagging.  
 
 ## More Fun Facts...
